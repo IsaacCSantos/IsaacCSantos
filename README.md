@@ -4,7 +4,7 @@
 - ⭐ Principais tecnologias que domino delphi e postgres,porem estou aprendendo java e spring boot nas horas vagas.
 - 👨‍🎓 Tenologias com conhecimento intermediario html, css, JavaScript, C#, Unity, MongoDb, React Native.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-correia-dos-santos-39971b219/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-c-santos/)
 [![linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoZellMendes&layout=compact&langs_count=4&theme=dark)![Isaac GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacCSantos&&count_private=true&hide=issues,contribs&show_icons=true&theme=dark&include_all_commits=true)
